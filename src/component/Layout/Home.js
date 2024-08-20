@@ -36,7 +36,7 @@ const Home = () => {
                 </div>
 
                 <div className='text-start ms-2 mb-5 mt-4'>
-                    <a href=''
+                    <a href='https://drive.google.com/file/d/1Dn8eBLzp2NsXtfXXmbIKI9XgB34m59_4/view?usp=sharing'
                         className='btn btn-outline-success  fontsize fontfamily' style={{fontSize:'22px'}}>
                        <b><i> Resume </i></b><ImDownload />
                     </a>
