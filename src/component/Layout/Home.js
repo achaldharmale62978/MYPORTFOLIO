@@ -36,7 +36,7 @@ const Home = () => {
                 </div>
 
                 <div className='text-start ms-2 mb-5 mt-4'>
-                    <a href='https://drive.google.com/file/d/1BCbs2stDqM9TONOoPQqyKXKbPwyOngAD/view?usp=drive_link'
+                    <a href=''
                         className='btn btn-outline-success  fontsize fontfamily' style={{fontSize:'22px'}}>
                        <b><i> Resume </i></b><ImDownload />
                     </a>
@@ -99,6 +99,7 @@ const Home = () => {
                             <li>Collect data will be stored in database(MYSQL)</li>
                             <li>Only Operational executive has authority to approve the loan after cheking the cibil score</li>
                             <li>Finally Chief executive pass the loan and collect the other information from the person who want the loan</li>
+                            <li>Website Link : <a href='https://projectsecond-nu.vercel.app/ '>https://projectsecond-nu.vercel.app/</a></li>
                         </ul>
                     </div>
                 </div>
@@ -117,6 +118,7 @@ const Home = () => {
                             <li>Collect data will be stored in database(MYSQL)</li>
                             <li>Only Operational executive has authority to approve the loan after cheking the cibil score</li>
                             <li>Finally Chief executive pass the loan and collect the other information from the person who want the loan</li>
+                            <li>Website Link : <a href=' https://creamycuddle.vercel.app/  '>https://creamycuddle.vercel.app/  </a></li>
                         </ul>
                     </div>
                 </div>
