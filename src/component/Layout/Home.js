@@ -102,7 +102,7 @@ const Home = () => {
                         </ul>
                     </div>
                     <div className='col-12 col-md-5 d-flex justify-content-center mb-3 mb-md-0'>
-                        <img src={car} className='img-fluid bg' alt='' />
+                        <img src={car} className='img-fluid bg car' alt='' />
                     </div>
                 </div>
 
