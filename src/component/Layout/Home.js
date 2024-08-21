@@ -7,7 +7,7 @@ import { BiLogoGmail } from "react-icons/bi";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { MdWifiCalling3 } from "react-icons/md";
-import portfolio from '../../Assetss/Screenshot 2024-08-07 171027.png'
+import portfolio from '../../Assetss/Screenshot 2024-08-21 202536.png'
 import car from '../../Assetss/download.png'
 import soap from '../../Assetss/WhatsApp Image 2024-08-05 at 22.25.37_1faa40ac.jpg'
 import journey from '../../Assetss/1602676294527.png'
