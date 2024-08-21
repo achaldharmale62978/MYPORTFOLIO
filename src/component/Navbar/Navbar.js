@@ -6,7 +6,7 @@ import '../Navbar/nav.css'
 const Navbar = () => {
     return (
         <>
-            <nav class="navbar navbar-light navedit fixed-top">
+            <nav class="navbar navbar-light bg-light navedit fixed-top">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="/"><h3><b><i><u>Achal Dharmale</u></i></b></h3></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">

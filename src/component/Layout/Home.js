@@ -19,10 +19,8 @@ const Home = () => {
             <div className='backcolor m-2'>
                 <Navbar />
                 <div className='m-2'>
-                    <div className='row align-items-center' >
-                        <div className='col-12 col-md-5 d-flex justify-content-center mb-3 mb-md-0'>
-                            <img src={imgone} className='img-fluid' alt='' />
-                        </div>
+                    <div className='row align-items-center mt-5' >
+                       
                         <div className='col-12 col-md-5 0ffset-md-2 text-start mt-4 mt-md-0'>
                             <h2 className='a2'><i><b>
                                 Hi, I'm Achal Dharmale <br />
@@ -31,6 +29,9 @@ const Home = () => {
                             <h5 className='a3 font'>
                                 As a Front-end Developer, I specialize in developing dynamic and responsive applications. motivates me to continuously learn and apply the latest advancements in the field.
                             </h5>
+                        </div>
+                        <div className='col-12 mt-5  col-md-5 d-flex justify-content-center mb-3 mb-md-0'>
+                            <img src={imgone} className='img-fluid bg ' alt='' />
                         </div>
                     </div>
                 </div>
@@ -50,7 +51,7 @@ const Home = () => {
                 </div>
                 <div className='row align-items-center' >
                     <div className='col-12 col-md-5 d-flex justify-content-center mb-3 mb-md-0'>
-                        <img src={journey} className='img-fluid' alt='' />
+                        <img src={journey} className='img-fluid bg' alt='' />
                     </div>
                     <div className='col-12  col-md-5 0ffset-md-2 text-start mt-4 mt-md-0'>
                         <p className='a2 font'>
@@ -86,9 +87,7 @@ const Home = () => {
                     </b></i></h2>
                 </div>
                 <div className='row align-items-center' >
-                    <div className='col-12 col-md-5 d-flex justify-content-center mb-3 mb-md-0'>
-                        <img src={car} className='img-fluid' alt='Sweet Almond oil' />
-                    </div>
+                    
                     <div className='col-12 col-md-5 0ffset-md-2 text-start mt-4 mt-md-0'>
                         <h2 className='a2'><i><b>Car Loan :</b></i></h2>
                         <h6>Github Actions</h6>
@@ -102,11 +101,14 @@ const Home = () => {
                             <li>Website Link : <a href='https://projectsecond-nu.vercel.app/ '>https://projectsecond-nu.vercel.app/</a></li>
                         </ul>
                     </div>
+                    <div className='col-12 col-md-5 d-flex justify-content-center mb-3 mb-md-0'>
+                        <img src={car} className='img-fluid bg' alt='' />
+                    </div>
                 </div>
 
                 <div className='row align-items-center' >
                     <div className='col-12 col-md-5 d-flex justify-content-center mb-3 mb-md-0'>
-                        <img src={soap} className='img-fluid' alt='Sweet Almond oil' />
+                        <img src={soap} className='img-fluid bg' alt='' />
                     </div>
                     <div className='col-12 col-md-5 0ffset-md-2 text-start mt-4 mt-md-0'>
                         <h2 className='a2'><i><b>Creamycuddle :</b></i></h2>
@@ -134,7 +136,7 @@ const Home = () => {
                         </p>
                     </div>
                     <div className='col-12 col-md-5 d-flex justify-content-center mb-3 mb-md-0'>
-                        <img src={portfolio} className='img-fluid' alt='Jojoba Oil' />
+                        <img src={portfolio} className='img-fluid bg' alt='' />
                     </div>
 
                 </div>
@@ -163,15 +165,15 @@ const Home = () => {
 
                     </div>
                 </div>
-                <div className=' mt-3 '>
+                {/* <div className=' mt-3 '>
                     <h5 className='fontfamily text-start'>Phone</h5>
                     <div className='d-flex '>
                         <h5 className=' text-start me-3'>
                             <span className='icone'><MdWifiCalling3 /></span>
                         </h5>
-                        <h5 className=''>91+ 9657579844</h5>
+                       
                     </div>
-                </div>
+                </div> */}
 
 
 
